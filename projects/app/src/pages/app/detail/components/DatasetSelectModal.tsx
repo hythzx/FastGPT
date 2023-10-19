@@ -258,7 +258,7 @@ export const KbParamsModal = ({
               <MySlider
                 markList={[
                   { label: '1', value: 1 },
-                  { label: '20', value: 20 }
+                  { label: '50', value: 50 }
                 ]}
                 min={1}
                 max={20}
