@@ -261,7 +261,7 @@ export const KbParamsModal = ({
                   { label: '50', value: 50 }
                 ]}
                 min={1}
-                max={20}
+                max={50}
                 value={getValues('searchLimit')}
                 onChange={(val) => {
                   setValue('searchLimit', val);
